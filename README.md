@@ -50,4 +50,4 @@ This project retrieves data from The Movie Database API. Make sure to configure 
 
 # Project Link
 
-    https://github.com/your-username/disney-clone
+    https://disney-clone-harshit.vercel.app/
