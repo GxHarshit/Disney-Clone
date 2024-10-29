@@ -47,3 +47,7 @@ This project retrieves data from The Movie Database API. Make sure to configure 
 	•	Add authentication features to simulate user profiles
 	•	Implement custom animations for movie cards
 	•	Improve error handling and loading states for API calls
+
+# Project Link
+
+    https://github.com/your-username/disney-clone
